@@ -140,7 +140,7 @@ def decode(src, length):
 
 	charAt = 0
 
-	bitList = []ssumes that
+	bitList = []
 
 	for pix in gen_pix:
 		coords, rgb = pix
